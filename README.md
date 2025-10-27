@@ -1,8 +1,9 @@
 # beelzebub2352
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saharsh Jakkula
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is Saharsh Jakkula
 ========================================================================================================================================
 
-Junior Data Technician
+Junior Data Technician, Aspiring Game Designer
 ----------------------
 
 I have been familiar with MS Excel and relational databases, and only recently graduated from FE college as an aspiring game designer. So far into my Data Technician bootcamp I have learned how to process, manipulate and visualize data via Excel, Tableau, PowerBI, MySQL, and Python, while also understanding the importance of data protection and organization via MS Azure.
