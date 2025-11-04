@@ -10,10 +10,13 @@ I have been familiar with using MS Excel since 2020, and only recently graduated
 
 I am interested in: Game Art/Design/Development and Data Analysis
 
-**Technical Skills**
+## **Technical Skills**
 
-Database Processing and Visulatization: Excel, Access, Tableau, PowerBI
-Creative Media: 3Ds Max, Substance Painter 3D, Unreal Engine
+**Database Processing and Visualization:**  
+Excel · Access · Tableau · Power BI  
+
+**Creative Media:**  
+3Ds Max · Substance Painter 3D · Unreal Engine
 
 * 🖥️  See my portfolio at [Github](http://https://github.com/beelzebub2352)
 * 🧠  I'm currently learning Tableau PowerBI, MySQL, Azure, Python
