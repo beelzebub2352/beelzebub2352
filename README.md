@@ -6,7 +6,7 @@ My name is Saharsh Jakkula
 Junior Data Technician, Aspiring Game Designer
 ----------------------
 
-I have been familiar with using MS Excel since 2020, and only recently graduated from FE college as an aspiring game designer. So far into my Data Technician bootcamp I have learned how to process, manipulate and visualize data via Excel, Tableau, PowerBI, MySQL, and Python, while also understanding the importance of data protection and organization via MS Azure.
+I have been familiar with MS Excel since 2020, and only recently graduated from FE college as an aspiring game designer. So far into my Data Technician bootcamp I have learned how to process, manipulate and visualize data via Excel, Tableau, PowerBI, MySQL, and Python, while also understanding the importance of data protection and organization via MS Azure.
 
 ## **Interests**
 
