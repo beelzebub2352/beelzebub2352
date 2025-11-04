@@ -12,6 +12,7 @@ I am interested in: Game Art/Design/Development and Data Analysis
 
 Technical Skills:
 Database Processing and Visulatization: Excel, Access, Tableau, PowerBI
+
 Creative Media: 3Ds Max, Substance Painter 3D, Unreal Engine
 
 * 🖥️  See my portfolio at [Github](http://https://github.com/beelzebub2352)
