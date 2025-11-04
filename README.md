@@ -10,7 +10,8 @@ I have been familiar with using MS Excel since 2020, and only recently graduated
 
 I am interested in: Game Art/Design/Development and Data Analysis
 
-<u>Technical Skills</u>
+**Technical Skills**
+
 Database Processing and Visulatization: Excel, Access, Tableau, PowerBI
 Creative Media: 3Ds Max, Substance Painter 3D, Unreal Engine
 
