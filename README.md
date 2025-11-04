@@ -8,8 +8,14 @@ Junior Data Technician, Aspiring Game Designer
 
 I have been familiar with using MS Excel since 2020, and only recently graduated from FE college as an aspiring game designer. So far into my Data Technician bootcamp I have learned how to process, manipulate and visualize data via Excel, Tableau, PowerBI, MySQL, and Python, while also understanding the importance of data protection and organization via MS Azure.
 
+I am interested in: Game Art/Design/Development and Data Analysis
+
+Technical Skills:
+Database Processing and Visulatization: Excel, Access, Tableau, PowerBI
+Creative Media: 3Ds Max, Substance Painter 3D, Unreal Engine
+
 * 🖥️  See my portfolio at [Github](http://https://github.com/beelzebub2352)
-* 🧠  I'm currently learning PowerBI, MySQL, Azure, Python
+* 🧠  I'm currently learning Tableau PowerBI, MySQL, Azure, Python
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
