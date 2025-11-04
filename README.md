@@ -16,7 +16,7 @@ I have been familiar with using MS Excel since 2020, and only recently graduated
 ## **Technical Skills**
 
 **Database Processing and Visualization:**  
-Excel · Access · Tableau · Power BI  
+Excel · Access · Tableau · Power BI  · MySQL 
 
 **Creative Media:**  
 3Ds Max · Substance Painter 3D · Unreal Engine
